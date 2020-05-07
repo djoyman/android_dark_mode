@@ -1,10 +1,8 @@
 package test.app.myapplication;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
-public class NewWindow extends AppCompatActivity {
+public class NewWindow extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
